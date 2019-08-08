@@ -1,4 +1,4 @@
-# Towards_Certified_Ethical_AI
+# Towards Certified Ethical Artificial Intelligences
 This repository is about a proposal to allow the definition of ethical artificial intelligences for which ethics can be certified. The proposal is based on definition of ethics ontologies, each ontology aiming at formalizing some ethical principles of interest. 
 
 During the learning phases of machine learning algorithms, the  ethics ontologies will be exploited  in order to reason on learning data and build ethically acceptable machine learning models.
